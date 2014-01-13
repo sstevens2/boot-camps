@@ -58,6 +58,8 @@ To exit the manual page, type q.
 
 Let's see what happens when we type :
 
+**Exercise**
+
     $ git --help
 
 Excellent, it gives a list of commands it is able to help with, as well
@@ -97,6 +99,8 @@ as their descriptions.
 
 ## git config : Controls the behavior of git
 
+**Exercise**
+
      $ git config --global user.name "YOUR NAME"
      $ git config --global user.email "YOUR EMAIL"
      $ git config --global core.editor nano
@@ -116,7 +120,7 @@ initialize the repository with the infrastructure git needs in order to
 keep a record of things within the repository that you're concerned
 about. The command to do this is **git init** .
 
-### Exercise : Create a Local Repository
+### Individual Exercise : Create a Local Repository
 
 Step 1 : Initialize your repository.
 
