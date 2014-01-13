@@ -163,9 +163,9 @@ india_cities = ["Ahmedabad","Kolkata", "Chennai", "Jaipur", "Surat"]
 us_cities = ["Chicago", "Austin", "New York", "San Fran"]
 all_cities = [italy_cities, argentina_cities, india_cities, us_cities]
 nationnames = ["italy","argentina", "india", "us"]
-for city_list in all_cities :
-    print nationnames[all_cities.index(city_list)] + ": "
-    for city in city_list :
+for cities in all_cities :
+    print nationnames[all_cities.index(cities)] + ": "
+    for city in cities :
         print "  " + city 
 ```
 
