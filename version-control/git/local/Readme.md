@@ -44,7 +44,8 @@ Version Control System Tool Options
 The first thing I like to know about any tool is how to get help. From
 the command line type
 
-Exercise
+**Exercise**
+
     $ man git
 
 The manual entry for the git version control system will appear before
