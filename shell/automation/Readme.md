@@ -94,7 +94,7 @@ data to come in. Now type:
     are
     good
 
-then <CONTROL>+d. You should see the lines:
+then \<CONTROL\>+d. You should see the lines:
 
     are
     good
