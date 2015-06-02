@@ -260,6 +260,14 @@ git revert <commit>
 `revert` will open our text editor to write a commit message.  You can 
 change the default message or just save it as is.  
 
+**Step 3**: Check changes revert made.
+
+```
+$ ls
+$ git log
+$ git status
+```
+
 ## `git branch`: Listing, Creating, and Deleting Branches
 
 Branches are parallel instances of a repository that can be edited and
