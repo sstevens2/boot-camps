@@ -75,7 +75,7 @@ simplestats folder on your machine.
     $ cd
     $ rm -r simplestats
 
-You may need to use `rm -rf simplestats`
+You may need to use `rm -rf simplestats`, if the files are write protected.
 
 Or if you'd like to keep it around
 
